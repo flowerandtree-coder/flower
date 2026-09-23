@@ -1,0 +1,41 @@
+.wrapper {
+    width: 960px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.header {
+    border: 2px dashed rgb(146, 135, 80);
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #64501f;
+}
+
+.nav {
+    border: 2px dashed #64501f;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav a {
+    color: #5d8664;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.nav a:hover{
+    color: #f97902;
+}
+
+.content {
+    border: 2px dashed #64501f;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 500px;
+    font-size: 32px;
+    color: #64501f;
+}
